@@ -1,0 +1,143 @@
+{
+  "navbar": [
+    {
+      "id": 1,
+      "title": "Home",
+      "selected": "true",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "title": "Menu",
+      "selected": "false",
+      "path": "menu"
+    },
+    {
+      "id": 3,
+      "title": "About us",
+      "selected": "false",
+      "path": "about"
+    },
+    {
+      "id": 4,
+      "title": "Order online",
+      "selected": "false",
+      "path": "orderonline"
+    },
+    {
+      "id": 5,
+      "title": "Reservation",
+      "selected": "false",
+      "path": "reservation"
+    },
+    {
+      "id": 6,
+      "title": "Contact us",
+      "selected": "false",
+      "path": "contact"
+    }
+  ],
+  "menusCategory": [
+    {
+      "id": 1,
+      "title": "All catagory",
+      "selected": "true"
+    },
+    {
+      "id": 2,
+      "title": "Dinner",
+      "selected": "false"
+    },
+    {
+      "id": 3,
+      "title": "Lunch",
+      "selected": "false"
+    },
+    {
+      "id": 4,
+      "title": "Dessert",
+      "selected": "false"
+    },
+    {
+      "id": 5,
+      "title": "Drink",
+      "selected": "false"
+    }
+  ],
+  "menus": [
+    {
+      "id": 1,
+      "title": "Spaghetti",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "25",
+      "img": "images/menus/menu1.png",
+      "stars": "3",
+      "catagory":"Dinner"
+    },
+    {
+      "id": 2,
+      "title": "Gnocchi",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "12.05",
+      "img": "images/menus/menu2.png",
+      "stars": "5",
+      "catagory":"Lunch"
+    },
+    {
+      "id": 3,
+      "title": "Rovioli",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "9",
+      "img": "images/menus/menu3.png",
+      "stars": "2",
+      "catagory":"Dessert"
+    },
+    {
+      "id": 4,
+      "title": "Penne Alla Vodak",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "5",
+      "img": "images/menus/menu4.png",
+      "stars": "4",
+      "catagory":"Dinner"
+    },
+    {
+      "id": 5,
+      "title": "Risoto",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "15",
+      "img": "images/menus/menu5.png",
+      "stars": "5",
+      "catagory":"Dessert"
+    },
+    {
+      "id": 6,
+      "title": "Splitza Signature",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam. ",
+      "price": "10",
+      "img": "images/menus/menu6.png",
+      "stars": "3",
+      "catagory":"Lunch"
+    }
+  ],
+  "chef": [
+    {
+      "id": 1,
+      "name": "Betran Komar",
+      "role": "Head chef",
+      "img": "images/chef/chef1.png"
+    },
+    {
+      "id": 2,
+      "name": "Ferry Sauwi",
+      "role": "chef",
+      "img": "images/chef/chef2.png"
+    },
+    {
+      "id": 3,
+      "name": "Iswan Dracho",
+      "role": "chef",
+      "img": "images/chef/chef3.png"
+    }
+  ]
+}
